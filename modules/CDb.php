@@ -1,8 +1,8 @@
 <?php
-    class createConnection {
+    class CDb {
         private $host="localhost";
         private $username="root";    // specify the sever details for mysql
-        private $password="@ngzy17171";
+        private $password="angzy1717";
         private $database="erp_db";
         private $myconn;
 
